@@ -1,0 +1,7 @@
+
+train: C:\practice\Python_Projects\custom_training\data\images\train
+val: C:\practice\Python_Projects\custom_training\data\images\train
+
+#Classes
+names:
+  0: vesell
